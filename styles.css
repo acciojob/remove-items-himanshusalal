@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+select {
+  padding: 5px;
+  margin-right: 10px;
+}
